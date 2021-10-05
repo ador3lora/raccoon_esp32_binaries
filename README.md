@@ -5,4 +5,4 @@
 1. Выберите **ESP32** в выпадающем списке **ChipType** и нажмите кнопку **OK** в меню, которое появится после запуска исполняемого файла.
 2. Сконфигурируйте утилиту в соответствии со скриншотом ниже:
 
-	![alt text](https://raw.githubusercontent.com/ador3lora/raccoon_esp32_binaries/media/flash_download_tool_3.8.8.png)
+	![alt text](https://raw.githubusercontent.com/ador3lora/raccoon_esp32_binaries/media/flash_download_tool.png)
